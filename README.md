@@ -1,7 +1,7 @@
 # 100 Days CSS Challenge
 
 Welcome to my **100 Days CSS Challenge** repository! 🌟  
-This repository is where I document my daily progress as I take on a new CSS challenge every day for 100 days.  
+This is where I document my daily progress as I take on a new CSS challenge every day for 100 days.  
 
 ## 🚀 Challenge Overview  
 Each day, I tackle a new CSS design task, improving my skills in layout, animations, and styling techniques.
